@@ -1,7 +1,7 @@
 # ml Project
 
 ## Workflows
-
+Note: create a template and run template.
 1. update config.yaml
 2. update schema.yaml
 3. update params.yaml
@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-ML-Project
+https://github.com/Sarala9206/End-to-end-ML-Project.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
